@@ -1,0 +1,12 @@
+D:\PBO\Prak\C#\TP1\TP1\TP1\bin\Debug\TP1.exe.config
+D:\PBO\Prak\C#\TP1\TP1\TP1\bin\Debug\TP1.exe
+D:\PBO\Prak\C#\TP1\TP1\TP1\bin\Debug\TP1.pdb
+D:\PBO\Prak\C#\TP1\TP1\TP1\obj\Debug\TP1.Form1.resources
+D:\PBO\Prak\C#\TP1\TP1\TP1\obj\Debug\TP1.Properties.Resources.resources
+D:\PBO\Prak\C#\TP1\TP1\TP1\obj\Debug\TP1.Menu.resources
+D:\PBO\Prak\C#\TP1\TP1\TP1\obj\Debug\TP1.csproj.GenerateResource.cache
+D:\PBO\Prak\C#\TP1\TP1\TP1\obj\Debug\TP1.exe
+D:\PBO\Prak\C#\TP1\TP1\TP1\obj\Debug\TP1.pdb
+D:\PBO\Prak\C#\TP1\TP1\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+D:\PBO\Prak\C#\TP1\TP1\TP1\obj\Debug\TP1.Detail.resources
+D:\PBO\Prak\C#\TP1\TP1\TP1\obj\Debug\TP1.Form_Login.resources
