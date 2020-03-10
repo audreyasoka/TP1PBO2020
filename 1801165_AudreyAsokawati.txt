@@ -1,0 +1,16 @@
+Saya Audrey mengerjakan TP 1 dalam mata kuliah PBO
+untuk keberkahanNya maka saya tidak melakukan kecurangan 
+seperti yang telah dispesifikasikan. Aamiin.
+
+
+Kesulitan:
+
+Saat Klik button untuk detail barang.
+
+Fitur yang dipelajari:
+
+- User Control
+- FlowPanel
+- Object Sender
+- Array Object
+dll
